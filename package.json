@@ -1,0 +1,28 @@
+{
+  "name": "discord-command-manager",
+  "version": "1.0.0",
+  "description": "A simple command manager for discord-simple-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dante4rt/Discord-Command-Manager.git"
+  },
+  "keywords": [
+    "discord",
+    "simple",
+    "command",
+    "manager"
+  ],
+  "author": "dante4rt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dante4rt/Discord-Command-Manager/issues"
+  },
+  "homepage": "https://github.com/dante4rt/Discord-Command-Manager#readme",
+  "dependencies": {
+    "discord-simple-api": "^1.0.3"
+  }
+}
