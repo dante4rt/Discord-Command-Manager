@@ -23,7 +23,7 @@ npm install discord-command-manager
 First, initialize your `Discord` instance from `discord-simple-api` and then create a `CommandManager` instance with it:
 
 ```javascript
-const { Discord } = require('discord-simple-api');
+const Discord = require('discord-simple-api');
 const CommandManager = require('discord-command-manager');
 
 // Initialize the Discord instance with your bot token
