@@ -1,6 +1,6 @@
 {
   "name": "discord-command-manager",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A simple command manager for discord-simple-api",
   "main": "index.js",
   "scripts": {

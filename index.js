@@ -1,4 +1,4 @@
-const { Discord } = require('discord-simple-api');
+const Discord = require('discord-simple-api');
 
 class CommandManager {
   constructor(discordInstance) {
